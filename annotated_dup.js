@@ -31,6 +31,8 @@ var annotated_dup =
       [ "trie_using_hashmap", null, [
         [ "Trie", "d3/d26/classdata__structures_1_1trie__using__hashmap_1_1_trie.html", "d3/d26/classdata__structures_1_1trie__using__hashmap_1_1_trie" ]
       ] ],
+      [ "Bitset", "d9/dae/classdata__structures_1_1_bitset.html", "d9/dae/classdata__structures_1_1_bitset" ],
+      [ "BloomFilter", "dc/dd4/classdata__structures_1_1_bloom_filter.html", "dc/dd4/classdata__structures_1_1_bloom_filter" ],
       [ "Node", "d9/d49/structdata__structures_1_1_node.html", "d9/d49/structdata__structures_1_1_node" ],
       [ "SkipList", "d4/d90/classdata__structures_1_1_skip_list.html", "d4/d90/classdata__structures_1_1_skip_list" ],
       [ "trie", "d0/d3e/classdata__structures_1_1trie.html", "d0/d3e/classdata__structures_1_1trie" ]
@@ -39,6 +41,9 @@ var annotated_dup =
       [ "Entry", "d9/dde/structdouble__hashing_1_1_entry.html", "d9/dde/structdouble__hashing_1_1_entry" ]
     ] ],
     [ "geometry", "d5/d5f/namespacegeometry.html", [
+      [ "grahamscan", null, [
+        [ "Point", "d7/d48/structgeometry_1_1grahamscan_1_1_point.html", null ]
+      ] ],
       [ "jarvis", null, [
         [ "Convexhull", "d4/dde/classgeometry_1_1jarvis_1_1_convexhull.html", "d4/dde/classgeometry_1_1jarvis_1_1_convexhull" ],
         [ "Point", "d9/d5a/structgeometry_1_1jarvis_1_1_point.html", null ]
@@ -72,9 +77,14 @@ var annotated_dup =
     [ "math", "dd/d47/namespacemath.html", [
       [ "ncr_modulo_p", null, [
         [ "NCRModuloP", "d6/dc1/classmath_1_1ncr__modulo__p_1_1_n_c_r_modulo_p.html", "d6/dc1/classmath_1_1ncr__modulo__p_1_1_n_c_r_modulo_p" ]
-      ] ]
+      ] ],
+      [ "Point", "de/d4f/structmath_1_1_point.html", null ]
     ] ],
     [ "operations_on_datastructures", "da/d6d/namespaceoperations__on__datastructures.html", [
+      [ "circular_linked_list", null, [
+        [ "CircularLinkedList", "d8/d7c/classoperations__on__datastructures_1_1circular__linked__list_1_1_circular_linked_list.html", "d8/d7c/classoperations__on__datastructures_1_1circular__linked__list_1_1_circular_linked_list" ],
+        [ "Node", "da/d16/structoperations__on__datastructures_1_1circular__linked__list_1_1_node.html", "da/d16/structoperations__on__datastructures_1_1circular__linked__list_1_1_node" ]
+      ] ],
       [ "inorder_traversal_of_bst", null, [
         [ "Node", "d5/db5/classoperations__on__datastructures_1_1inorder__traversal__of__bst_1_1_node.html", "d5/db5/classoperations__on__datastructures_1_1inorder__traversal__of__bst_1_1_node" ]
       ] ],
@@ -96,6 +106,10 @@ var annotated_dup =
       ] ],
       [ "postfix_expression", null, [
         [ "Stack", "d5/d8a/classothers_1_1postfix__expression_1_1_stack.html", "d5/d8a/classothers_1_1postfix__expression_1_1_stack" ]
+      ] ],
+      [ "recursive_tree_traversals", null, [
+        [ "BT", "dd/de1/classothers_1_1recursive__tree__traversals_1_1_b_t.html", "dd/de1/classothers_1_1recursive__tree__traversals_1_1_b_t" ],
+        [ "Node", "d9/df7/structothers_1_1recursive__tree__traversals_1_1_node.html", "d9/df7/structothers_1_1recursive__tree__traversals_1_1_node" ]
       ] ]
     ] ],
     [ "probability", "d4/ded/namespaceprobability.html", [
@@ -153,6 +167,7 @@ var annotated_dup =
     [ "large_number", "db/d82/classlarge__number.html", "db/d82/classlarge__number" ],
     [ "linkedlist", "d0/dff/structlinkedlist.html", null ],
     [ "list", "d8/d10/structlist.html", "d8/d10/structlist" ],
+    [ "ListNode", "d7/da4/struct_list_node.html", "d7/da4/struct_list_node" ],
     [ "MinHeap", "d2/d05/class_min_heap.html", "d2/d05/class_min_heap" ],
     [ "MinHeapNode", "d5/d29/struct_min_heap_node.html", null ],
     [ "mst", "d1/d77/structmst.html", null ],

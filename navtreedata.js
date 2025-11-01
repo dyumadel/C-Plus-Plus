@@ -33,10 +33,10 @@ var NAVTREE =
       [ "Scope", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md8", null ],
       [ "Enforcement", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md9", null ],
       [ "Enforcement Guidelines", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md10", [
-        [ "Correction", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md11", null ],
-        [ "Warning", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md12", null ],
-        [ "Temporary Ban", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md13", null ],
-        [ "Permanent Ban", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md14", null ]
+        [ "1. Correction", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md11", null ],
+        [ "2. Warning", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md12", null ],
+        [ "3. Temporary Ban", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md13", null ],
+        [ "4. Permanent Ban", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md14", null ]
       ] ],
       [ "Attribution", "d3/dd7/md__c_o_d_e___o_f___c_o_n_d_u_c_t.html#autotoc_md15", null ]
     ] ],
@@ -137,19 +137,20 @@ var NAVTREEINDEX =
 [
 "annotated.html",
 "d1/d83/classuint256__t.html#af2193ff0d0e93143fb71f4847df16028",
-"d3/d22/quick__sort__iterative_8cpp.html",
-"d4/d90/classdata__structures_1_1_skip_list.html#a40a4042bdf0b6683b5f21ae7854de8a9",
-"d5/d95/structdata__structures_1_1treap_1_1_treap.html#a75a48584a6560de20484fbba6229fd29",
-"d6/db0/binomial__dist_8cpp.html#acd4dd4558031e4c5d045c801f73d8861",
-"d8/d2e/classothers_1_1_cache_1_1_l_r_u_cache.html#af8edfe5a7def5d5b846463041c33136a",
-"d9/d02/linear__search_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
-"da/d19/classprobability_1_1geometric__dist_1_1geometric__distribution.html#a08328dc7d62188427111f176b56a105a",
-"db/d71/quadratic__probing__hash__table_8cpp_source.html",
-"dc/d5a/rat__maze_8cpp_source.html",
-"dd/d4f/class_solution.html",
-"de/dcf/classoperations__on__datastructures_1_1reverse__binary__tree_1_1_binary_tree.html",
-"functions_func_a.html"
+"d3/d06/ode__semi__implicit__euler_8cpp_source.html",
+"d4/d8f/travelling__salesman__using__bit__manipulation_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"d5/d95/structdata__structures_1_1treap_1_1_treap.html#a1ab082fe0aa95a238bbbc68ab6a72425",
+"d6/dae/classothers_1_1lru__cache_1_1_l_r_u_cache.html#a41c9b6f1693b8a316cc4a2d8c9149ba4",
+"d8/d2e/classothers_1_1_cache_1_1_l_r_u_cache.html#a8dab0f69410484f772946befd24cc3c5",
+"d8/dfd/structoperations__on__datastructures_1_1reverse__binary__tree_1_1_node.html",
+"da/d0d/longest__common__string_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"db/d5b/structdata__structures_1_1stack__using__queue_1_1_stack.html#a2f80f87fc6f6ded938426698bba89323",
+"dc/d53/classtests_1_1_circular_linked_list.html#a9cc37166f2f73763df39894b675f89c9",
+"dd/d47/namespacemath.html#ab3b920cc56442abd92279ba23b50f4dc",
+"de/dc3/fibonacci__sum_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4",
+"dir_cc8e79ed9d2b7756c78e8d0c87c6c0c7.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronization';
 var SYNCOFFMSG = 'click to enable panel synchronization';
+var LISTOFALLMEMBERS = 'List of all members';
